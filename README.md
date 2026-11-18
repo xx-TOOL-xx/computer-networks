@@ -6,7 +6,11 @@ Homework for the "Computer Networks" course.
 | ------ | --------------------------------------- | ------------------------------------------------------------------------ |
 | 1      | Fundamentals of computer networks       | [homework/module1/imanov_homework_1.md](homework/module1/imanov_homework_1.md) |
 | 2      | Transport layer and network services    | [homework/module2/imanov_homework_2.md](homework/module2/imanov_homework_2.md) |
+| 3      | Web protocols and the application layer | [homework/module3/imanov_homework_3.md](homework/module3/imanov_homework_3.md) |
 
 The answer files are written in Ukrainian, as the assignments require.
 
 All commands were run in the terminal of an Ubuntu 24.04 Docker container.
+
+`homework/module3/test_api.py` is the small local REST API used in module 3 to
+demonstrate HTTP methods.
